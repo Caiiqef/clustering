@@ -1,0 +1,103 @@
+usuario_id,cookies_enabled,device_memory,hardware_concurrency,ip,languages,local_storage,platform,session_storage,timezone,touch_support,browser,browser_version,gpu,hash
+1,true,8,12,201.26.163.119,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,opera,81.0.4196,amd radeon rx 560,15n8ddh709kn4gjkkmi9649g99bn
+2,true,8,4,200.158.198.60,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,chrome,96.0.4664,nvidia evga geforce gtx 970,1gd7abb2e497c9f5a00ff94da5dc9e2
+1,false,8,2,137.183.95.242,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,Chrome,95.0.4638,nvidia evga geforce gtx 970,1gd7abb2e497c9f5a00ff94da5dc9e2
+2,false,4,4,34.131.211.72,pt-BR,true,Windows 8,true,America/Sao_Paulo,false,Firefox,80.0.4170,amd radeon rx 560,1adl54148eac5h2035mbf91h81e8i
+3,false,8,2,201.98.244.196,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,Chrome,95.0.4638,nvidia evga geforce gtx 970,e09c80c42fda55f9d992e59ca6b3307d
+4,true,4,2,107.5.15.1,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,Edge,80.0.4170,amd radeon rx 560,1gd7abb2e497c9f5a00ff94da5dc9e2
+5,true,2,6,251.203.64.179,pt-BR,false,Windows 8,true,America/Sao_Paulo,false,Firefox,80.0.4170,amd radeon rx 560,1gd7abb2e497c9f5a00ff94da5dc9e2
+6,false,4,4,138.84.98.53,pt-BR,true,Windows 8,true,America/Sao_Paulo,false,Chrome,95.0.4638,amd radeon rx 560,1gd7abb2e497c9f5a00ff94da5dc9e2
+7,true,8,2,201.110.67.113,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,Chrome,80.0.4170,nvidia evga geforce gtx 970,e1faffe9c3c801f2f8c3fbe7cb032cb2
+8,false,8,2,18.48.206.162,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,Chrome,95.0.4638,nvidia evga geforce gtx 970,41fcba09f2bdcdf315ba4119dc7978dd
+9,true,2,8,165.153.240.253,pt-BR,false,Windows 8,true,America/Sao_Paulo,false,Firefox,80.0.4170,amd radeon rx 560,1gd7abb2e497c9f5a00ff94da5dc9e2
+10,true,4,6,701.861.732.26,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,Chrome,80.0.4171,amd radeon rx 260,k1faffe9c3c801f2f8c3fbe7cb032cb1
+11,true,4,2,98.169.9.107,pt-BR,true,Windows 10,true,America/Sao_Paulo,false,Chrome,95.0.4639,amd radeon rx 160,9ca980e2204bbc788171d43b6f8b27ee
+12,true,16,6,229.4.84.39,en-US,true,Linux,true,America/California,false,Opera,70.0.4120,intel uhd graphics 630,7e94a7a2f62aa616e91256f315ccc343
+13,false,8,6,205.28.233.120,en-US,true,Linux,false,America/California,false,Edge,70.0.4121,nvidia geforce gtx 1060,03886aac90d383bd2c82d0c1fee408db
+14,true,4,4,236.53.143.136,en-US,false,Android 11,true,America/Arizona,true,Firefox,80.0.4160,Mali-G71 MP2,bd2c63e2202cf77b0db4d23b14ee8acb
+15,true,16,20,176.113.181.34,en-US,true,Linux,true,America/Texas,false,Edge,80.0.4161,nvidia geforce gtx 1060,67c8a040082074f7c1da8315bafe0e34
+16,true,16,20,9.118.46.170,en-US,false,Linux,true,America/Utah,false,Firefox,80.0.4162,intel uhd graphics 630,ef60e89acc989917b61bd6a053156cf7
+17,false,32,20,67.239.57.245,en-US,false,Windows 10,true,America/Texas,false,Firefox,80.0.4163,radeon rx 580,5565ce34d7a4a3d5c9cf1bc49eb84636
+18,false,8,6,215.214.145.58,en-US,true,Android 10,true,America/Arizona,true,Chrome,95.0.4638,Adreno 660,b395ffe4ab378636532c48e8fe7cb820
+19,false,4,2,223.1.148.150,en-US,false,Android 11,true,America/Lousiana,true,Chrome,95.0.4635,Mali-G78 MP24,34c4dfddcbc0111a0f59ed600b03b78d
+20,true,16,12,8.184.26.0,en-US,true,Windows XP,true,America/Alabama,false,Chrome,95.0.4638,radeon rx 580,cd4d8c98455540fd3000f194ae9e6842
+21,true,16,12,29231217148,en-US,true,Windows XP,true,America/Georgia,false,Chrome,95.0.4638,intel uhd graphics 640,9fcea301d1ae372716a51752a1ab64d9
+22,true,32,20,27.208.218.29,en-GB,true,Windows XP,true,Europe/Oxford,false,Firefox,80.0.4170,intel uhd graphics 650,7f19eaaf1086c3be115e39d6047c6879
+23,false,8,4,137.222.17.31,en-GB,true,Linux,true,Europe/Dublin,false,Edge,80.0.4171,intel uhd graphics 640,b31d697139a52828107d52034cbbe8f4
+24,true,16,12,58.46.11.80,en-GB,true,Linux,true,Europe/Dublin,false,Opera?,70.0.4120,intel uhd graphics 650,69194f9fc78b77dc5f550a7c809c17d6
+25,true,8,6,131.26.244.97,en-GB,false,Android 11,true,Europe/London,true,Chrome,95.0.4638,Adreno 612,8959bd046ead35c66091b680eed092e6
+26,true,8,6,131.26.244.97,en-GB,false,Android 11,true,Europe/London,true,Chrome,95.0.4638,Adreno 612,8959bd046ead35c66091b680eed092e6
+27,true,8,6,131.26.244.97,en-GB,false,Android 11,true,Europe/London,true,Chrome,95.0.4638,Adreno 612,8959bd046ead35c66091b680eed092e6
+28,true,8,6,131.26.244.97,en-GB,false,Android 11,true,Europe/London,true,Chrome,95.0.4638,Adreno 612,8959bd046ead35c66091b680eed092e6
+29,true,8,4,91.240.97.57,en-GB,true,Windows 8,true,Europe/Cardiff,false,Firefox,80.0.4168,radeon rx 6600 xt,6d39163fcbe897048370d8b6fa233032
+30,true,8,4,39.235.12.240,en-GB,true,IOS 15?,true,Europe/Cardiff,true,Safari,61.4.5080,A13 Bionic’s GPU,8bb08e71ffa369ed71e504a749d9a0be
+31,true,8,6,231.164.15.55,pt-PT,false,Windows 7,true,Europe/Evora,false,Edge,61.4.5081,nvidia evga geforce gtx 970,0bad43bfbe903abd6d0ea379ddef8138
+32,false,8,6,89.99.27.50,pt-PT,false,Windows 7,true,Europe/Evora,false,Opera?,70.0.4120,intel uhd graphics 630,d7d8de4a4c8d3899a1bcd3db71912dca
+33,false,8,4,166.60.80.49,pt-PT,true,Windows 10,true,Europe/Aveiro,false,Firefox,80.0.4167,nvidia evga geforce gtx 970,cb87064afb218423b3f0d8be57ddf118
+34,true,16,12,220.128.252.71,pt-PT,false,Android 10,true,Europe/Braga,true,Chrome,95.0.3590,Radeon HD 7610M,a904adf1911e772becd62cf072a37b94
+35,false,8,4,166.60.80.49,pt-PT,true,Windows 10,true,Europe/Aveiro,false,Firefox,80.0.4167,nvidia evga geforce gtx 970,cb87064afb218423b3f0d8be57ddf118
+36,false,16,8,101.173.153.91,pt-PT,true,IOS 15?,false,Europe/Coimbra,true,Safari,61.3.5209,A12 Bionic’s GPU,c111269f24d7e7515236abf18f861106
+37,false,4,2,105.59.86.48,pt-PT,true,Android 11,false,Europe/Coimbra,true,Chrome,61.3.5210,Adreno 660,d0730cfd4d827fef106139286e877bd7
+38,true,8,6,131.26.244.97,en-GB,false,Android 11,true,Europe/London,true,Chrome,95.0.4638,Adreno 612,8959bd046ead35c66091b680eed092e6
+39,true,8,6,131.26.244.97,en-GB,false,Android 11,true,Europe/London,true,Chrome,95.0.4638,Adreno 612,8959bd046ead35c66091b680eed092e6
+40,true,16,12,100.157.3.182,zh-CN,false,Windows 10,true,Asia/Hubei,false,Firefox,95.0.4639,intel uhd graphics 630,8ce781c530d97f1232bd49c44e916d7d
+41,true,32,12,206.204.54.102,zh-CN,false,Linux,true,Asia/Hubei,false,Chrome,95.0.4638,nvidia geforce rtx 3080 ti,7a116881439b348c35038e90952066bd
+42,true,16,20,27.37.85.98,zh-CN,false,Windows 10,true,Asia/Tibet,false,Opera?,70.0.4121,nvidia geforce rtx 2060,d4120332d8711559ac337a5ced66a0b6
+43,false,32,20,192.219.178.42,zh-CN,false,Windows 10,true,Asia/Tibet,false,Firefox,70.0.4122,nvidia geforce gtx 1060,f1fd08c30935aeb332f7d422219d69d0
+44,false,32,12,127.192.211.72,zh-CN,false,Linux,true,Asia/Tibet,false,Chrome,95.0.4638,nvidia geforce rtx 3080 ti,7a116881439b348c35038e90952066bd
+45,true,32,16,"2,44129E+11",zh-CN,true,Android 11,true,Asia/Guizhu,true,Edge,95.0.4639,Mali-G52 MC2,d79cf52bdd85f83d30bc7ad44df066d2
+46,false,32,20,136.211.214.7,zh-CN,true,Linux,false,Asia/Yunnan,false,Chrome,95.0.4638,nvidia geforce rtx 3080 ti,99d93ec623174904b430e24ba8b541e8
+47,true,32,20,33.66.240.186,zh-CN,true,Linux,true,Asia/Qinghai,false,Firefox,95.0.4639,nvidia geforce rtx 3080 ti,99d93ec623174904b430e24ba8b541e8
+48,true,16,12,19.24.171.117,zh-CN,true,Android 11,true,Asia/Qinghai,true,Chrome,95.0.4640,"""Mali-T830 MP1""",6a14b786d4da0994b2eb4c89afb5c687
+49,false,16,12,184.61.21.20,zh-TW,false,Windows XP,true,Asia/New_Taipei,false,Firefox,95.0.4641,nvidia geforce rtx 2060,42323e3211ed4478b2b8ba87d4185a03
+50,false,32,20,"2,05126E+11",zh-TW,false,Android 8,true,Asia/New_Taipei,true,Chrome,95.0.4642,Mali-450 MP4,7b60e3847f7a2c3c9621b9ff06587460
+51,false,32,20,244.57.159.2,zh-TW,false,Windows XP,true,Asia/Taipei,false,Firefox,95.0.4643,nvidia geforce gtx 1060,f1fd08c30935aeb332f7d422219d69d0
+52,true,16,12,211.107.79.212,zh-TW,false,Linux,true,Asia/Taipei,false,Chrome,95.0.4638,intel uhd graphics 630,76abc7de1cf3cd270e46feb95055fa13
+53,true,32,20,123.37.196.184,zh-TW,false,Linux,true,Asia/Taipei,false,Firefox,95.0.4639,nvidia geforce gtx 1060,f1fd08c30935aeb332f7d422219d69d0
+54,true,16,6,80247137241,zh-TW,false,Linux,true,Asia/Taipei,false,Opera?,70.0.4118,GeForce GTX 770,3c7b4b210ac26693717cf8789ac40e1b
+55,true,32,20,212.237.85.254,zh-TW,true,Android 9,true,Asia/Yilan,true,Opera?,70.0.4110,Mali-T830 MP1,f96f688f2345e3d442e75fb611212c0c
+56,true,8,6,216.22.162.184,zh-TW,false,Linux,true,Asia/Yilan,false,Chrome,95.0.4638,intel uhd graphics 630,b19d4f601bf18955a32f47fababcafc1
+57,true,16,12,240.23.151.249,zh-TW,false,Windows 10,true,Asia/Yilan,false,Opera?,70.0.4001,intel uhd graphics 630,3d586b693b539a353472277025e055ac
+58,false,8,6,126.26.22.172,zh-TW,false,Linux,false,Asia/Yilan,false,Opera?,70.0.4001,nvidia geforce rtx 2080 super,ef166bf43fbf24ef1cb8a78f35c6ffff
+59,true,8,6,193.123.6.158,zh-TW,false,Windows 10,true,Asia/Taichung,false,Opera?,70.0.4001,nvidia geforce rtx 2080 super,c8c95be63639567a37746f19334881f3
+60,false,16,12,202.66.180.234,zh-TW,true,Android 11,true,Asia/Taichung,true,Edge,70.0.4002,Mali-T830 MP1,533b4b26c116ddcf14b958bf85c49049
+61,true,16,8,49202108117,zh-TW,true,IOS 15,true,Asia/Taichung,true,Safari,60.3.5110,A11 Bionic’s GPU,179be100ef18a605d8bc75393cdac029
+62,true,32,20,28.169.29.206,ja,false,Linux,true,Asia/Osaka,false,Opera?,70.0.4001,nvidia geforce rtx 2080 super,9acebce5e4cefc2d4a147defba33d778
+63,true,32,12,75219228205,ja,false,Linux,true,Asia/Osaka,false,Chrome,95.0.4638,GeForce4 440,44fda666839f1eb3d761b1f773052ade
+64,true,32,20,246.143.255.67,ja,false,Linux,true,Asia/Kobe,false,Opera?,70.0.4001,nvidia geforce rtx 2080 super,9acebce5e4cefc2d4a147defba33d778
+65,true,8,4,241.38.210.152,ja,false,Windows 10,true,Asia/Kobe,false,Edge,70.0.4002,nvidia geforce rtx 3080 ti,7a7fd58f09acc749d74f2b1063672bf2
+66,false,8,4,"1,2216E+11",ja,false,Windows 10,true,Asia/Kobe,false,Chrome,95.0.4638,nvidia geforce rtx 3080 ti,7a7fd58f09acc749d74f2b1063672bf2
+67,false,16,12,49.0.217.117,ja,false,Windows 10,true,Asia/Kyoto,false,Chrome,95.0.4638,intel uhd graphics 630,8ce781c530d97f1232bd49c44e916d7d
+68,true,16,6,156.190.81.174,ja,false,Windows 10,true,Asia/Kyoto,false,Firefox,95.0.4639,radeon rx 550 2gb,51de908885e926c3f433b9a93eaa1e23
+69,true,32,12,83.79.255.253,ja,false,Linux,true,Asia/Tokyo,false,Chrome,95.0.4640,nvidia geforce rtx 3080 founders,3313fa3260d2bb02b70be057a8b32fc0
+70,true,32,12,3.27.151.153,ja,false,Linux,true,Asia/Tokyo,false,Firefox,95.0.4641,nvidia geforce rtx 3080 founders,3313fa3260d2bb02b70be057a8b32fc0
+71,true,8,4,40241158241,fr,false,Windows XP,true,Europe/Marselle,false,Chrome,95.0.4638,Radeon 535,e1e09726f0079dfd12d0f652531a6457
+72,false,8,4,54.94.202.59,fr,true,Android 11,false,Europe/Bordeaux,true,Chrome,95.0.4639,Mali-T830 MP1,0439f23e45aacfc84f44a9d119b646ff
+73,true,8,6,127.183.46.194,fr,true,IOS 15?,true,Europe/Lyon,true,Safari,60.3.5000,PowerVR 7XT GT7600 Plus        ,8cb8c802f5012096b8ce0552a7be4a6e
+74,true,16,12,25.6.2.161,fr,true,Windows 7,true,Europe/Toulouse,false,Opera?,70.0.4001,Radeon HD 4850,38135692e057265db52833c0b4d1df32
+75,true,16,12,"1,34195E+11",fr,true,Android 8,true,Europe/Nice,true,Chrome,70.0.4002,Mali-G52 MC2,04c581e8d109083f8e7be0423a17b223
+76,true,16,6,218.58.12.139,fr,true,Android 8,false,Europe/Nantes,true,Chrome,70.0.4003,PowerVR GE8320,9c9f49d6a6343c186e586df87436811f
+77,true,8,4,84.24.154.17,fr,true,Windows 8,false,Europe/Nantes,false,Chrome,95.0.4638,Intel 82915G Express,4d723b71df381bce95d41cf72d55c52c
+78,false,8,4,182.254.28.113,fr,true,Windows 8,false,Europe/Marselle,false,Chrome,95.0.4638,Intel 82915G Express,4d723b71df381bce95d41cf72d55c52c
+79,true,16,12,18.234.41.224,cs,false,Linux,true,Europe/Vysocina,false,Chrome,95.0.4532,intel uhd graphics 630,a684546f9f737ab373710808c7a438f4
+80,true,8,4,136.11.86.88,cs,false,Linux,true,Europe/Vysocina,false,Chrome,95.1.1233,GeForce4 Ti 4200,aa4bbd8b2eec80be2ab2e2577429d9ab
+81,false,4,2,81107141151,cs,false,Windows XP,true,Europe/Liberecky,false,Chrome,95.1.4563,GeForce4 440,a59db910d34ebb8db0d3063926795775
+82,true,16,20,"1,41146E+11",cs,false,Windows XP,true,Europe/Liberecky,false,Chrome,95.0.4638,Master X3100 Driver,9e324db36645066db40a8c2bc3610dce
+83,true,4,2,60.230.33.192,cs,true,Windows XP,true,Europe/Praha,false,Chrome,95.0.4640,Radeon 530,61d03d5d4e505eedc91936e42fe4e273
+84,true,4,2,96.3.45.162,cs,false,Windows XP,true,Europe/Praha,false,Chrome,95.0.4638,Intel HD 500,45ee906eafb73445ff7560efa20d6ec4
+85,false,8,4,229.66.147.115,cs,false,Windows XP,true,Europe/Praha,false,Opera?,95.0.4642,Intel 82915G Express,24c16abeff314253dc3bc9ab9de9ac7e
+86,true,8,6,131.26.244.97,en-GB,false,Android 11,true,Europe/London,true,Chrome,95.0.4638,Adreno 612,8959bd046ead35c66091b680eed092e6
+87,false,16,12,"1,99195E+11",nl,true,Android 11,true,Europe/Rotterdam,true,Chrome,95.0.4639,Mali-G52 MC2,965da38952015d49530bc62557bd2189
+88,true,8,6,121.115.7.87,nl,true,Windows 7,true,Europe/Tillburg,false,Chrome,95.0.4640,radeon rx 550 2gb,f5fbe310ddfc8d11d76ba496d8c92f54
+89,true,8,6,148.58.136.85,nl,true,Windows 10,false,Europe/Arnhem,false,Chrome,95.0.4641,GeForce4 440,7b7769e5ce1a189a2ef43fe1541a60aa
+90,false,4,4,104.233.61.11,nl,true,Windows 10,true,Europe/Arnhem,false,Opera?,79.3.5055,Dell 8100,941ddf901b70b12bd92bc419bdaf08fd
+91,true,16,12,90.56.217.77,nl,true,Windows 10,true,Europe/Assen,false,Opera?,79.6.3758,intel uhd graphics 630,8ce781c530d97f1232bd49c44e916d7d
+92,true,8,6,82214126192,de,true,Windows 7,true,Europe/Munique,false,Opera?,80.0.4055,radeon rx 550 2gb,401a2a7a437a1fb91ac65b878d1aacf2
+93,true,16,6,24.3.198.33,de,true,Linux,true,Europe/Dusseldorf,false,Opera?,80.0.4170,Dell 8100,69902d189b85a3f6e2eb8a4c77e86408
+94,false,8,4,86.189.96.56,de,true,IOS 14,false,Europe/Stuttgart,true,Safari,60.3.5090,PowerVR 7XT GT7600,3a0c207e91e309c937ad13e34a85f88b
+95,true,4,2,165.79.33.215,de,false,Windows 8,false,Europe/Munique,false,Opera?,79.3.5055,radeon rx 550 2gb,401a2a7a437a1fb91ac65b878d1aacf2
+96,false,4,2,100.8.112.142,de,true,Android 11,true,Europe/Bremen,true,Chrome,95.0.4639,PowerVR GE8320,5dfd99aa08a43079781462212228aa93
+97,false,4,2,100.8.112.142,de,true,Android 11,true,Europe/Bremen,true,Chrome,95.0.4639,PowerVR GE8320,5dfd99aa08a43079781462212228aa93
+98,true,6,4,90.56.217.77,it,true,Android 11,false,Europe/Roma,true,Chrome,95.0.4640,Mali-G76 MP10,efff77f5ef386d962514e2c4859c3446
+99,false,4,2,183.57.104.170,it,false,Linux,false,Europe/Roma,false,Chrome,95.0.4641,nvidia geforce rtx 3080 founders,b0e9d90f3c1dbccc0dc8e2265098030b
+100,true,4,2,183.57.104.170,it,true,Windows 10,true,Europe/Napoli,false,Opera?,80.0.4170,nvidia geforce rtx 3080 founders,e4948a1f77d1f0ed9cd8320efbeda718
